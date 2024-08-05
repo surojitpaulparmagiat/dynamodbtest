@@ -39,5 +39,5 @@ async function main() {
   console.log("items and count", items, 'count', count);
 }
 
-
+// this is the main function.
 main();
